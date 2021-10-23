@@ -1,7 +1,15 @@
 import React from 'react';
-// import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
-import styles from './Hero.module.css';
+import { Carousel } from 'react-bootstrap';
+// import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+// import styles from './Hero.module.css';
+import service1 from '../../img/autoservise1.png';
 
 export default function Hero() {
-  return <div className={styles.heroBg}></div>;
+  return (
+    <Carousel>
+      <Carousel.Item />
+      <img src={service1} alt="service" className="d-block w-100" />
+      <Carousel.Item />
+    </Carousel>
+  );
 }
