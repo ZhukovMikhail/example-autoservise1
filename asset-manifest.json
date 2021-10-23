@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/example-autoservise1/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/example-autoservise1/static/js/main.92bc6141.chunk.js",
-    "main.js.map": "/example-autoservise1/static/js/main.92bc6141.chunk.js.map",
+    "main.js": "/example-autoservise1/static/js/main.b46fccea.chunk.js",
+    "main.js.map": "/example-autoservise1/static/js/main.b46fccea.chunk.js.map",
     "runtime-main.js": "/example-autoservise1/static/js/runtime-main.ff9b7cc7.js",
     "runtime-main.js.map": "/example-autoservise1/static/js/runtime-main.ff9b7cc7.js.map",
     "static/css/2.0a9ec390.chunk.css": "/example-autoservise1/static/css/2.0a9ec390.chunk.css",
@@ -13,13 +13,14 @@
     "static/css/main.6dea0f05.chunk.css.map": "/example-autoservise1/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.04f3a782.chunk.js.LICENSE.txt": "/example-autoservise1/static/js/2.04f3a782.chunk.js.LICENSE.txt",
     "static/media/111.e3fe295a.bmp": "/example-autoservise1/static/media/111.e3fe295a.bmp",
-    "static/media/autoservise1.d4cd9a79.png": "/example-autoservise1/static/media/autoservise1.d4cd9a79.png"
+    "static/media/autoservise1.d4cd9a79.png": "/example-autoservise1/static/media/autoservise1.d4cd9a79.png",
+    "static/media/prices.4bae5e4f.bmp": "/example-autoservise1/static/media/prices.4bae5e4f.bmp"
   },
   "entrypoints": [
     "static/js/runtime-main.ff9b7cc7.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.04f3a782.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.92bc6141.chunk.js"
+    "static/js/main.b46fccea.chunk.js"
   ]
 }
