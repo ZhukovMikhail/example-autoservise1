@@ -27,9 +27,9 @@ function App() {
           <Route path="/social-links" component={SocialLinks} />
           <Route path="/contacts" component={Contacts} />
         </Switch>
+        <WhoWeAre />
+        <WhatWeDo />
       </Router>
-
-      <WhatWeDo />
     </>
   );
 }
