@@ -8,21 +8,14 @@ export default function NavBar() {
     <Navbar collapseOnsrllect expand="lg" bg="dark" variant="dark">
       <Container>
         <Navbar.Brand href="#home">
-          <Link to="/who-we-are">
-            <img src={logo} alt="logo" />
+          <Link to="/example-autoservise1">
+            <img src={logo} alt="logo" width="200" />
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <NavDropdown
-              title="О нас (об Автосервисе) "
-              id="basic-nav-dropdown"
-            >
-              <NavDropdown.Item href="#action/3.1">
-                <Link to="/who-we-are">Кто мы</Link>
-              </NavDropdown.Item>
-
+            <NavDropdown title="О нас " id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.3">
                 <Link to="/what-we-do">Что мы умеем</Link>
               </NavDropdown.Item>
@@ -36,6 +29,9 @@ export default function NavBar() {
 
               <NavDropdown.Item href="#action/3.5">
                 <Link to="/our-projects">Наши работы</Link>
+              </NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.1">
+                <Link to="/who-we-are">О компании</Link>
               </NavDropdown.Item>
               <NavDropdown.Item href="#action/3.6">
                 <Link to="/social-links">Мы в соц. сетях</Link>
@@ -64,7 +60,9 @@ export default function NavBar() {
                 <Link to="/detailing"> Детейлинг</Link>
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#link">Цены</Nav.Link>
+            <Nav.Link>
+              <Link to="/prices">Цены</Link>
+            </Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link>
