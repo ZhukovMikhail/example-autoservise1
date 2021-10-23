@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/example-autoservise1/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/example-autoservise1/static/js/main.87ca78d6.chunk.js",
-    "main.js.map": "/example-autoservise1/static/js/main.87ca78d6.chunk.js.map",
+    "main.js": "/example-autoservise1/static/js/main.bea160bf.chunk.js",
+    "main.js.map": "/example-autoservise1/static/js/main.bea160bf.chunk.js.map",
     "runtime-main.js": "/example-autoservise1/static/js/runtime-main.ff9b7cc7.js",
     "runtime-main.js.map": "/example-autoservise1/static/js/runtime-main.ff9b7cc7.js.map",
     "static/css/2.0a9ec390.chunk.css": "/example-autoservise1/static/css/2.0a9ec390.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.04f3a782.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.87ca78d6.chunk.js"
+    "static/js/main.bea160bf.chunk.js"
   ]
 }
